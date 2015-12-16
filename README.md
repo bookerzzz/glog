@@ -1,5 +1,4 @@
-glog
-====
+# glog
 
 Leveled execution logs for Go.
 
